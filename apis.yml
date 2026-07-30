@@ -1,8 +1,30 @@
 aid: lunabill
 name: Lunabill
-description: Lunabill is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  LunaBill is an AI revenue cycle management (RCM) platform for hospitals, health
+  systems, and RCM/BPO firms, built by LunaHealth Technologies, Inc. and backed by
+  Y Combinator. A coordinated team of AI agents works the entire accounts receivable
+  queue end to end — placing real calls to payers and waiting on hold, navigating IVR
+  phone trees, checking payer portals (Availity, Waystar), working denials, filing
+  appeals, and resubmitting claims — while running inside the EHR and clearinghouses
+  a provider already uses (Epic, Cerner, GoRev, Waystar, Availity) and leaving a full
+  audit trail on every claim. Pricing is performance based (1.5% of net collections
+  recovered, nothing upfront). LunaBill is HIPAA compliant and SOC 2 Type I (Type II in
+  progress). It does not currently publish a public developer API; integration is
+  delivered through EHR and clearinghouse connectors rather than a documented API surface.
 url: https://raw.githubusercontent.com/api-evangelist/lunabill/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.lunabill.com/opengraph-image
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +33,41 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Healthcare
+- Revenue Cycle Management
+- Medical Billing
+- Insurance Claims
+- AI Agents
+- HIPAA
+- Health Tech
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/lunabill-domain-security.yml
+- type: Website
+  url: https://lunabill.com
+- type: Blog
+  url: https://lunabill.com/blog
+- type: TermsOfService
+  url: https://lunabill.com/terms
+- type: PrivacyPolicy
+  url: https://lunabill.com/privacy
+- type: TrustCenter
+  url: https://trust.lunabill.com
+- type: Compliance
+  url: https://lunabill.com/trust
+- type: LLMsTxt
+  url: llms/lunabill-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
