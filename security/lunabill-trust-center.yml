@@ -1,0 +1,22 @@
+generated: '2026-07-20'
+method: searched
+source: https://lunabill.com/llms.txt
+url: https://trust.lunabill.com
+also: https://lunabill.com/trust
+certifications:
+- SOC 2 Type I
+- HIPAA
+in_progress:
+- SOC 2 Type II
+notes: >-
+  LunaBill publishes a public trust center at https://trust.lunabill.com and a
+  /trust page describing its security and compliance posture: HIPAA compliant,
+  enterprise-grade security, SOC 2 Type I (Type II in progress), and a Business
+  Associate Agreement (BAA) executed in under a day. Certifications confirmed from
+  the first-party llms.txt and the live /trust page; the trust.lunabill.com portal
+  itself rate-limited (HTTP 429) during this probe but resolves and responds.
+evidence:
+- source: https://lunabill.com/llms.txt
+  keywords: [soc 2 type i, hipaa, public trust center]
+- source: https://lunabill.com/trust
+  keywords: [soc 2, hipaa, trust center, type ii]

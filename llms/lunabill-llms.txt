@@ -1,0 +1,61 @@
+# LunaBill
+
+> LunaBill is AI revenue cycle automation for hospitals, health systems, and RCM firms. A coordinated team of AI agents works the entire accounts receivable (AR) queue end to end: checking payer portals, calling insurance companies, working denials, filing appeals, and resubmitting claims, so billing teams review outcomes instead of sitting on hold.
+
+LunaBill is a product of LunaHealth Technologies, Inc. It is backed by Y Combinator, HIPAA compliant, and SOC 2 Type I (Type II in progress).
+
+## What LunaBill does
+
+- Automates claim status calls to payers: Luna places calls, waits on hold, navigates IVR phone trees, and gets a live answer with no staff time.
+- Retrieves status from payer portals automatically (Availity, Waystar, and payer-specific portals).
+- Works denials, files appeals, and resubmits claims.
+- Runs inside the EHR you already use (Epic, Cerner, GoRev) and your existing clearinghouses (Waystar, Availity).
+- Leaves a full audit trail on every claim that RCM firms can hand to clients.
+
+## Who it is for
+
+- Hospitals and health systems that need to work a growing AR backlog without growing headcount.
+- Revenue cycle management (RCM) and BPO firms that want to scale client portfolios without scaling payroll.
+
+## Pricing
+
+- Performance based: 1.5% of net collections recovered, billed only after the money lands.
+- Nothing upfront, no license fees, no implementation fees. If LunaBill recovers nothing, you owe nothing.
+
+## Proof (Nutex Health case study)
+
+- 24 campus U.S. health system with a 60+ person revenue cycle team, on Epic and GoRev.
+- $32M+ of AR worked in 30 days, with zero added headcount.
+- Days in AR on 60+ day commercial claims: 45 → 7 (within three months of go live).
+- Fully loaded cost per claim: $22.28 → $2.00.
+- Staff time per claim follow up: 22 minutes → 4 minutes.
+- Portfolio wide, trailing 30 days: $64.4M of claim value worked and 90,000+ payer interactions per month.
+
+## Security and compliance
+
+- HIPAA compliant, enterprise grade security.
+- Business Associate Agreement (BAA) executed in under a day.
+- SOC 2 Type I (Type II in progress).
+- Public trust center: https://trust.lunabill.com
+
+## Getting started
+
+- Free pilot on your actual backlog, demoed on your real payer mix and EHR.
+- Pilot in 48 hours; BAA signed in under a day.
+- Contact: suhail@lunabill.com
+
+## Key pages
+
+- [Home](https://lunabill.com/): AI revenue cycle automation overview and FAQ.
+- [Nutex Health case study](https://lunabill.com/case-study): $32M+ of AR worked in 30 days.
+- [About](https://lunabill.com/about): the team behind LunaBill.
+- [Blog: The $63.76 problem](https://lunabill.com/blog/the-63-dollar-problem): the unit economics of denial follow up.
+- [Trust and security](https://lunabill.com/trust): HIPAA, SOC 2, and security posture.
+
+## Common questions
+
+- What is LunaBill? An AI revenue cycle management platform that automates accounts receivable for hospitals and RCM firms using a team of AI agents.
+- Does LunaBill call insurance companies? Yes, Luna places real payer calls, holds, navigates the IVR, and gets a live answer without using staff time.
+- Which systems does it integrate with? Epic, Cerner, GoRev, Waystar, and Availity, among others.
+- How much does it cost? 1.5% of net collections recovered, nothing upfront, no recovery no fee.
+- Is it HIPAA compliant? Yes, with a BAA in under a day and SOC 2 Type I.
