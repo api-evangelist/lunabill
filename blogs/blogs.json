@@ -3,12 +3,12 @@
   "feeds": [
     {
       "source": "https://lunabill.com",
-      "feed_url": "https://lunabill.com",
+      "feed_url": "https://lunabill.com/blog/feed/",
       "title": "",
-      "saved": 0,
-      "method": "none"
+      "saved": 7,
+      "method": "discovered"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-09-06T19:17:18Z"
+  "post_count": 7,
+  "fetched": "2026-09-13T13:00:00Z"
 }
