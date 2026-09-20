@@ -5,10 +5,17 @@
       "source": "https://lunabill.com",
       "feed_url": "https://lunabill.com/blog/feed/",
       "title": "",
-      "saved": 7,
+      "saved": 3,
       "method": "discovered"
+    },
+    {
+      "source": "https://lunabill.com/blog/feed/",
+      "feed_url": "https://lunabill.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     }
   ],
-  "post_count": 7,
-  "fetched": "2026-09-13T13:00:00Z"
+  "post_count": 12,
+  "fetched": "2026-09-19T20:17:39Z"
 }
